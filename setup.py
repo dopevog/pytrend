@@ -1,5 +1,4 @@
 # Copyright 2021-Present Vedant Kothari
-# See LICENSE for details.
 
 from setuptools import setup, find_packages
 import io
