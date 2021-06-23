@@ -7,7 +7,7 @@
 ## Introduction
 
 **pytrend** is a Python package to detect trends on the market so to analyze its behaviour. So on, this package
-has been created to support [investpy](https://github.com/dopevog/investpy) features when it comes to data retrieval
+has been created to support Yahoo Finance features when it comes to data retrieval
 from different financial products such as stocks, funds or ETFs; and it is intended to be combined with it, 
 but also with every `pandas.DataFrame`, formatted as OHLC.
 
