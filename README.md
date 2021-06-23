@@ -26,7 +26,7 @@ $ python -m pip install pytrend --upgrade
 Or just install the current release or a specific release version such as:
 
 ```
-$ python -m pip install pytrend==0.1
+$ python -m pip install pytrend==0.3
 ```
 
 Or install from the source

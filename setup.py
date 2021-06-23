@@ -19,7 +19,7 @@ def requirements(filename):
 
 setup(
     name='pytrend',
-    version='0.1',
+    version='0.3',
     packages=find_packages(),
     url='https://github.com/dopevog/pytrend',
     license='MIT License',
