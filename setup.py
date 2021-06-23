@@ -22,7 +22,6 @@ setup(
     version='0.1',
     packages=find_packages(),
     url='https://github.com/dopevog/pytrend',
-    download_url='https://github.com/dopevog/pytrend/archive/0.1.tar.gz',
     license='MIT License',
     author='Vedant Kothari',
     author_email='dopevog@gmail.com',
