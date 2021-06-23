@@ -104,8 +104,7 @@ plt.xticks(locs[1:-1], labels)
 plt.show()
 ````
 
-Further usage insights can be found on the [docs](https://pytrend.readthedocs.io/) or on the following 
-[gist](https://gist.github.com/dopevog/98f94dcfec59f78a16ad2edbf464ce75#file-identify_all_trends-py). Anyways, 
+Further usage insights can be found on the [docs](https://pytrend.readthedocs.io/). Anyways, 
 feel free to create your own scripts on how you use **pytrend** or how can it be used in order to improve its features.
 
 ## License
