@@ -109,3 +109,5 @@ feel free to create your own scripts on how you use **pytrend** or how can it be
 
 ## License
 This Project Has Been [MIT Licensed](LICENSE)
+
+
