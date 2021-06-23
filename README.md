@@ -1,7 +1,7 @@
 # Pytrend - Trend detection on stock time series data
 
 <p align="center">
-  <img src="images/pytrend.png"/>
+  <img src="https://github.com/dopevog/pytrend/blob/main/images/pytrend.png"/>
 </p>
 
 ## Introduction
